@@ -39,5 +39,7 @@
       "swade-art": "modules/pf2e-tokens-bestiaries/map-swpf.json",
       "shadowdark-art": "modules/pf2e-tokens-bestiaries/map-shadowdark.json"
     }
-  }
+  },
+  "manifest":"https://raw.githubusercontent.com/plusplusplustwo/Monsterimages01/main/module.json",
+  "download": "https://github.com/plusplusplustwo/Monsterimages01/archive/123.zip"
 }
